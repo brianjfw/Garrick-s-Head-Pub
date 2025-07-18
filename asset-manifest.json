@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Garrick-s-Head-Pub/static/css/main.5e235dc8.css",
+    "main.js": "/Garrick-s-Head-Pub/static/js/main.6a1f9f3e.js",
+    "static/js/115.bb70b67e.chunk.js": "/Garrick-s-Head-Pub/static/js/115.bb70b67e.chunk.js",
+    "static/js/111.f0be9581.chunk.js": "/Garrick-s-Head-Pub/static/js/111.f0be9581.chunk.js",
+    "static/js/890.91f800a4.chunk.js": "/Garrick-s-Head-Pub/static/js/890.91f800a4.chunk.js",
+    "static/media/kaushan-script-all-400-normal.woff": "/Garrick-s-Head-Pub/static/media/kaushan-script-all-400-normal.ba623d1ca520a2a711d2.woff",
+    "static/media/sirin-stencil-all-400-normal.woff": "/Garrick-s-Head-Pub/static/media/sirin-stencil-all-400-normal.e1b8add18154b5d65682.woff",
+    "static/media/kaushan-script-latin-400-normal.woff2": "/Garrick-s-Head-Pub/static/media/kaushan-script-latin-400-normal.2855d49bba6b2cb7bec5.woff2",
+    "static/media/sirin-stencil-latin-400-normal.woff2": "/Garrick-s-Head-Pub/static/media/sirin-stencil-latin-400-normal.f668f96beabdc683277b.woff2",
+    "static/media/kaushan-script-latin-ext-400-normal.woff2": "/Garrick-s-Head-Pub/static/media/kaushan-script-latin-ext-400-normal.5a05e21384fe4b1b9db7.woff2",
+    "index.html": "/Garrick-s-Head-Pub/index.html",
+    "main.5e235dc8.css.map": "/Garrick-s-Head-Pub/static/css/main.5e235dc8.css.map",
+    "main.6a1f9f3e.js.map": "/Garrick-s-Head-Pub/static/js/main.6a1f9f3e.js.map",
+    "115.bb70b67e.chunk.js.map": "/Garrick-s-Head-Pub/static/js/115.bb70b67e.chunk.js.map",
+    "111.f0be9581.chunk.js.map": "/Garrick-s-Head-Pub/static/js/111.f0be9581.chunk.js.map",
+    "890.91f800a4.chunk.js.map": "/Garrick-s-Head-Pub/static/js/890.91f800a4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e235dc8.css",
+    "static/js/main.6a1f9f3e.js"
+  ]
+}
